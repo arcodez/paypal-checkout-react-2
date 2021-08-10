@@ -1,2 +1,2 @@
-# paypal-checkout-react-2
+# paypal-checkout-react
 Created with CodeSandbox
